@@ -27,18 +27,13 @@
     Révision
     6.1 Révision du rapport
     6.2 Révision des scripts Python
+    6.3 Répétition de la présentation orale en groupe
 
-    Livrables
-    7.1 Livraison du rapport final
-    7.2 Livraison des scripts Python
-    7.3 Livraison de la base de données
-
-    Présentation orale
-    9.1 Présentation en groupe de 10 minutes
-    9.2 Description de l'analyse des données
-    9.3 Explication des statistiques et des graphiques produits
-    9.4 Réponse aux questions posées par le public
-    9.5 Répartition équitable du temps de parole entre les membres du groupe.
+    Préparation de la présentation
+    7.1 Planification de la présentation orale
+    7.2 Préparation des slides en anglais
+    7.3 Répétition de la présentation
+    
     
     =====================MCD===================================
         Planification et conception du MCD
