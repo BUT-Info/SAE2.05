@@ -9,7 +9,7 @@ lang: fr-FR
 ...
 
 \tableofcontents
-
+-----------
 Contexte
 ----------
 
