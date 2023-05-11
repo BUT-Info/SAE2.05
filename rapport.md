@@ -16,7 +16,7 @@ Une entreprise de jeu vidéo souhaite intégrer un système d'objets dans un log
 Les objets sont être référençables par leur nom et chaque objet a des capacités qui lui sont propres. L'utilisateur dispose d'objets au début et peut en récupérer dans l'environnement décrit par le jeu vidéo.
 Le joueur a la capacité d'obtenir de nouveaux objets en combinant d'autres objets. Par exemple, trois "bâtons" forment une fois assemblés un "javelot".
 
-Livrables
+Livrabless
 ---------
 
 - Application fonctionnelle gérant les cas précisés précédemment
