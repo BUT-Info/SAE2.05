@@ -1,0 +1,20 @@
+A,2,,Établir le modèle de données
+B,5,A,Assembler les objets et les dépendances entre eux -> grapĥe
+C,4,B,Implémenter la recherche d'une recette de fabrication
+D,4,C,Implémenter la fabrication d'objets
+E,7,C,Créer l'interface pour combiner des objets
+F,5,D-E,Lier les données à l'interface de combinaison
+G,2,F,Documenter l'architecture et les algorithmes utilisés
+H,6,G,Identifier les problèmes de performance
+I,9,H,Expérimenter et optimiser l'application
+J,4,E,Créer un menu
+K,15,J,Permettre la persistence de l'inventaire
+L,20,I-K,Tester sur différentes plateformes
+M,7,K,Documenter
+N,12,L-M,Supporter différents profils de joueur
+O,25,N,Permettre le multi joueur sur le réseau
+P,3,N,Réaliser une bêta fermée
+Q,20,P,Répertorier les bugs trouvés pendant la bêta
+R,10,O-Q,Corriger
+S,40,J,Réaliser une campagne publicitaire
+T,5,R-S,Publier

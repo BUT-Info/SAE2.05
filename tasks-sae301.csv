@@ -1,0 +1,16 @@
+A,3,,Choix du projet
+B,6,A,Description du projet
+C,2,B,Identification des contraintes
+D,4,B,Transcriptions des besoins
+E,2,C-D,Identification des tâches
+
+A,1,,Créer le MCD
+B,2,A,Implémenter la base de données
+C,4,B,Créer une API exposant la base de données via HTTP
+D,6,C,Permettre de créer un projet, le supprimer et ajouter une version depuis le web
+E,10,C,Télécharger et afficher les informations de l'API en console
+F,8,C,Réaliser une maquette pour le design du site
+G,5,F,Implémenter la maquette
+H,5,E,Intégrer le paquet installé dans le projet de l'utilisateur
+I,3,H,Comparer les versions installées avec celles du dépôt distant
+
