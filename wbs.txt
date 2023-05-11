@@ -32,6 +32,13 @@
     7.1 Livraison du rapport final
     7.2 Livraison des scripts Python
     7.3 Livraison de la base de données
+
+    Présentation orale
+9.1 Présentation en groupe de 10 minutes
+9.2 Description de l'analyse des données
+9.3 Explication des statistiques et des graphiques produits
+9.4 Réponse aux questions posées par le public
+9.5 Répartition équitable du temps de parole entre les membres du groupe.
     
     =====================MCD===================================
         Planification et conception du MCD
