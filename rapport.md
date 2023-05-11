@@ -17,9 +17,10 @@ Notre SAE consiste à manipuler et à analyser un jeu de données libres et ouve
 
 L'objectif de notre projet est d'exploiter ces données pour en extraire des informations pertinentes, des graphiques et des statistiques. Nous avons commencé par trouver des questions sur ces données et définir les statistiques que nous souhaitions obtenir. Par exemple, nous avons chercher à comprendre les tendances du marché musical, à identifier les artistes les plus populaires ou à prévoir la popularité future d'une chanson en fonction de son style et de sa durée.
 
-Après avoir défini nos questions, nous proposerons un modèle de structuration de nos données. Nous utiliserons des outils numériques pour analyser les données et créer une base de données. Ensuite, nous rédigerons un script pour importer les données collectées dans notre base de données, en veillant à traiter les données au préalable pour supprimer les doublons, le cas échéant.
+Après avoir défini nos questions, nous avons proposé un modèle de structuration de nos données. Nous avons utilisé des outils numériques pour analyser les données et créer une base de données. Ensuite, nous avons rédigé un script pour importer les données collectées dans notre base de données, en veillant à traiter les données au préalable pour supprimer les doublons ainsi que les données incohérentes.
 
-Enfin, nous analyserons nos données et présenterons les résultats sous forme visuelle pour répondre aux questions que nous avons identifiées dans la première partie. Nous utiliserons des packages Python tels que pandas et matplotlib pour faciliter l'analyse et la visualisation des données.
+Enfin, nous avons analysé nos données et nous présenterons prochainement les résultats sous forme visuelle pour répondre aux questions que nous avons identifiées dans la première partie. Nous utiliserons des packages Python tels que pandas et matplotlib pour faciliter l'analyse et la visualisation des données.
+
 
 Livrables
 ---------
