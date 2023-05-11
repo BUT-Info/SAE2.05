@@ -21,12 +21,12 @@ Après avoir défini nos questions, nous avons proposé un modèle de structurat
 
 Enfin, nous avons analysé nos données et nous présenterons prochainement les résultats sous forme visuelle pour répondre aux questions que nous avons identifiées dans la première partie. Nous utiliserons des packages Python tels que pandas et matplotlib pour faciliter l'analyse et la visualisation des données.
 
-
-Livrables
+Genèse de projet
 ---------
+Bien que ce projet nous ait été assigné par notre professeur, il est facile d'imaginer une entreprise ou un client qui pourrait bénéficier d'un tel projet. Une maison de disques, par exemple, serait intéressée par une analyse approfondie des tendances musicales et des goûts des auditeurs. Ces informations pourraient influencer leurs décisions en matière de marketing et de promotion, en ciblant plus efficacement leur public et en adaptant leur offre musicale aux préférences du marché.
 
-- Application fonctionnelle gérant les cas précisés précédemment
-- Documentation de l'architecture et du rôle de chaque composant de l'application
+Ou de même, Spotify lui-même, ou d'autres plateformes de streaming musical, pourraient trouver une telle analyse utile pour mieux comprendre leurs utilisateurs, optimiser leurs algorithmes de recommandation et améliorer l'expérience utilisateur.
+
 
 Référentiel
 
