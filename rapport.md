@@ -9,9 +9,9 @@ lang: fr-FR
 ...
 
 \tableofcontents
--------------
-Contexte
 
+Contexte
+----------
 
 Notre SAE consiste à manipuler et à analyser un jeu de données libres et ouvertes. Pour ce faire, nous avons sélectionné une base de données des chansons les plus écoutées sur Spotify.
 
