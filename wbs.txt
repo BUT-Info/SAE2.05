@@ -1,0 +1,65 @@
+    Collecte de données
+    1.1 Identification des questions de recherche
+    1.2 Identification des sources de données en ligne
+    1.3 Collecte de données brutes
+    1.4 Nettoyage de données (suppression des doublons, transformation des valeurs)
+
+    Conception de la base de données
+    2.1 Identification des tables nécessaires
+    2.2 Création du modèle de données (MCD ou MLD)
+    2.3 Conception des requêtes SQL pour importer les données
+
+    Implémentation de la base de données
+    3.1 Création de la base de données
+    3.2 Création des tables dans la base de données
+    3.3 Importation des données dans la base de données
+
+    Analyse des données
+    4.1 Identification des statistiques à extraire
+    4.2 Conception de graphiques pour visualiser les données
+    4.3 Écriture de scripts Python pour extraire les statistiques et générer les graphiques
+
+    Rapport
+    5.1 Rédaction d'un rapport au format PDF
+    5.2 Inclusion des résultats de l'analyse des données
+    5.3 Inclusion des scripts Python utilisés pour extraire les statistiques et générer les graphiques
+
+    Révision
+    6.1 Révision du rapport
+    6.2 Révision des scripts Python
+
+    Livrables
+    7.1 Livraison du rapport final
+    7.2 Livraison des scripts Python
+    7.3 Livraison de la base de données
+    
+    =====================MCD===================================
+        Planification et conception du MCD
+    1.1 Définition des exigences du MCD
+    1.2 Collecte et analyse des données
+    1.3 Conception du modèle conceptuel de données
+    1.4 Validation du modèle avec les parties prenantes
+
+    Implémentation du MCD
+    2.1 Installation de l'environnement de développement
+    2.2 Création de la structure de base de données
+    2.3 Développement et mise en place des entités du MCD
+    2.4 Intégration des relations entre les entités
+    2.5 Test de l'ensemble du MCD pour la validation de la qualité
+
+    Documentation du MCD
+    3.1 Rédaction de la documentation utilisateur
+    3.2 Rédaction de la documentation technique
+    3.3 Validation de la documentation avec les parties prenantes
+
+    Formation des utilisateurs
+    4.1 Planification de la formation
+    4.2 Conception des supports de formation
+    4.3 Dispensation de la formation aux utilisateurs clés
+    4.4 Évaluation de la formation
+
+    Maintenance du MCD
+    5.1 Surveillance de l'environnement de production
+    5.2 Gestion des incidents et des problèmes
+    5.3 Mise à jour du MCD en fonction des évolutions du besoin
+    5.4 Réalisation de sauvegardes régulières de la base de données
