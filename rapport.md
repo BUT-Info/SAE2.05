@@ -13,9 +13,13 @@ lang: fr-FR
 Contexte
 ========
 
-Une entreprise de jeu vidéo souhaite intégrer un système d'objets dans un logiciel pour ordinateur.
-Les objets sont être référençables par leur nom et chaque objet a des capacités qui lui sont propres. L'utilisateur dispose d'objets au début et peut en récupérer dans l'environnement décrit par le jeu vidéo.
-Le joueur a la capacité d'obtenir de nouveaux objets en combinant d'autres objets. Par exemple, trois "bâtons" forment une fois assemblés un "javelot".
+Notre SAE consiste à manipuler et à analyser un jeu de données libres et ouvertes. Pour ce faire, nous avons sélectionné une base de données des chansons les plus écoutées sur Spotify.
+
+L'objectif de notre projet est d'exploiter ces données pour en extraire des informations pertinentes, des graphiques et des statistiques. Nous avons commencé par trouver des questions sur ces données et définir les statistiques que nous souhaitions obtenir. Par exemple, nous avons chercher à comprendre les tendances du marché musical, à identifier les artistes les plus populaires ou à prévoir la popularité future d'une chanson en fonction de son style et de sa durée.
+
+Après avoir défini nos questions, nous proposerons un modèle de structuration de nos données. Nous utiliserons des outils numériques pour analyser les données et créer une base de données. Ensuite, nous rédigerons un script pour importer les données collectées dans notre base de données, en veillant à traiter les données au préalable pour supprimer les doublons, le cas échéant.
+
+Enfin, nous analyserons nos données et présenterons les résultats sous forme visuelle pour répondre aux questions que nous avons identifiées dans la première partie. Nous utiliserons des packages Python tels que pandas et matplotlib pour faciliter l'analyse et la visualisation des données.
 
 Livrables
 ---------
