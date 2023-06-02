@@ -30,6 +30,17 @@ Ou de même, Spotify lui-même, ou d'autres plateformes de streaming musical, po
 Maître d'oeuvre, d'ouvrage et de projet
 ---------
 
+En tant que maître d'œuvre, nous avons la responsabilité de la conception et de la réalisation du projet. Nous avons décidé ensemble des méthodes à adopter, des outils à utiliser et du calendrier à respecter pour mener à bien notre mission.
+
+Le maître d'ouvrage est notre professeur, M. Azemar, qui nous a confié ce projet. Il définit les objectifs et les contraintes du projet, valide les choix techniques et s'assure que le résultat correspond à ses attentes.
+
+Pour organiser notre équipe, nous avons opté pour une approche collaborative plutôt qu'hierarchique. En d'autres termes, il n'y avait pas à proprement parler de chef d'équipe. Nous avons préféré mettre en place une structure horizontale, où chacun a la possibilité d'exprimer ses idées et où les décisions sont prises de manière consensuelle. Cette approche a facilité la communication et la collaboration au sein de l'équipe, en permettant à chacun de contribuer à part égale à la réussite du projet.
+
+Chacun de nous a été chargé de certaines tâches en fonction de ses compétences et de ses intérêts. Léo s'est concentré sur l'analyse des données, Mathéo a travaillé sur la conception de la base de données, et Yvan a été en charge de la collecte et du nettoyage des données. Cette répartition des rôles a permis d'optimiser notre travail en tirant parti de nos forces individuelles, tout en veillant à ce que chaque membre de l'équipe ait une compréhension globale du projet.
+
+Nous avons organisé des réunions au début de chaque séance. Durant ces réunions, chacun présentait l'avancement de sa tâche et nous discutions ensemble de la suite du projet. Ces moments ont été essentiels pour maintenir une bonne communication au sein de l'équipe, pour résoudre les problèmes rapidement et pour prendre des décisions éclairées.
+
+Pour faciliter notre communication et notre collaboration, nous avons choisi d'utiliser plusieurs outils. Notion a été notre principal outil de gestion de projet, nous permettant de suivre l'avancement du projet, de partager des ressources et de planifier nos tâches. CodeFirst a été utilisé pour le partage et la collaboration sur le code source du projet. Enfin, pour la communication en temps réel, nous avons utilisé Discord, qui offre des fonctionnalités de chat et d'appel vidéo. Ces outils ont été choisis pour leur facilité d'utilisation, leur flexibilité et leur capacité à favoriser la collaboration à distance.
 
 Décomposition des tâches
 ------------------------
