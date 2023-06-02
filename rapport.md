@@ -27,7 +27,7 @@ Bien que ce projet nous ait été assigné par notre professeur, il est facile d
 
 Ou de même, Spotify lui-même, ou d'autres plateformes de streaming musical, pourraient trouver une telle analyse utile pour mieux comprendre leurs utilisateurs, optimiser leurs algorithmes de recommandation et améliorer l'expérience utilisateur.
 
-Maître d'oeuvre, d'ouvrage er de projet
+Maître d'oeuvre, d'ouvrage et de projet
 ---------
 
 
