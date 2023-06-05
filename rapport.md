@@ -47,7 +47,7 @@ Pour faciliter notre communication et notre collaboration, nous avons choisi d'u
 Livrables
 -----------------------------
 
-À la fin de notre projet (SAE 2.04 exploitation de bdd), nous avons livré plusieurs éléments :
+À la fin de notre SAE, nous avons livré plusieurs éléments :
 
 - Une base de données bien structurée contenant les données des chansons les plus écoutées sur Spotify. Cette base de données a été nettoyée et est prête à être utilisée pour d'autres analyses ou projets.
 - Un ensemble de scripts Python que nous avons utilisés pour collecter, nettoyer et analyser les données. Ces scripts sont documentés et peuvent être réutilisés ou modifiés pour d'autres projets similaires.
