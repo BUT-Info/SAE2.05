@@ -64,12 +64,12 @@ De plus, si le client avait des données supplémentaires qu'il souhaitait que n
 Diagramme bête à corne
 ----------------------
 
-![DiagrammeBAC](DiagrammeBeteACorne "Diagramme bête à corne").
+![DiagrammeBAC](DiagrammeBeteACorne "Diagramme bête à corne")
 
 Diagramme pieuvre
 ----------------------
 
-![DiagrammePieuvre](DiagrammePieuvre.png "Diagramme Pieuvre").
+![DiagrammePieuvre](DiagrammePieuvre.png "Diagramme Pieuvre")
 
 
 Décomposition des tâches
