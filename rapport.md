@@ -61,6 +61,17 @@ Si un client réel nous avait demandé un tel projet, le niveau de confidentiali
 
 De plus, si le client avait des données supplémentaires qu'il souhaitait que nous intégrions à notre analyse (par exemple, des données d'écoute spécifiques à leur entreprise), le niveau de confidentialité aurait été plus élevé. Dans ce cas, nous aurions mis en place des mesures de sécurité supplémentaires pour protéger ces données, comme l'utilisation de protocoles de chiffrement et la limitation de l'accès aux données.
 
+Diagramme bête à corne
+----------------------
+
+![DiagrammeBAC](DiagrammeBeteACorne "Diagramme bête à corne").
+
+Diagramme pieuvre
+----------------------
+
+![DiagrammePieuvre](DiagrammePieuvre.png "Diagramme Pieuvre").
+
+
 Décomposition des tâches
 ------------------------
 
