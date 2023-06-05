@@ -42,6 +42,25 @@ Nous avons organisé des réunions au début de chaque séance. Durant ces réun
 
 Pour faciliter notre communication et notre collaboration, nous avons choisi d'utiliser plusieurs outils. Notion a été notre principal outil de gestion de projet, nous permettant de suivre l'avancement du projet, de partager des ressources et de planifier nos tâches. CodeFirst a été utilisé pour le partage et la collaboration sur le code source du projet. Enfin, pour la communication en temps réel, nous avons utilisé Discord, qui offre des fonctionnalités de chat et d'appel vidéo. Ces outils ont été choisis pour leur facilité d'utilisation, leur flexibilité et leur capacité à favoriser la collaboration à distance.
 
+
+
+Livrables
+-----------------------------
+
+À la fin de notre projet (SAE 2.04 exploitation de bdd), nous avons livré plusieurs éléments :
+
+- Une base de données bien structurée contenant les données des chansons les plus écoutées sur Spotify. Cette base de données a été nettoyée et est prête à être utilisée pour d'autres analyses ou projets.
+- Un ensemble de scripts Python que nous avons utilisés pour collecter, nettoyer et analyser les données. Ces scripts sont documentés et peuvent être réutilisés ou modifiés pour d'autres projets similaires.
+- Un rapport détaillé présentant notre méthodologie, nos résultats et nos conclusions. Ce rapport comprend des graphiques et des statistiques pour illustrer nos découvertes.
+- Une présentation visuelle de nos résultats, que nous avons préparée pour notre professeur et d'autres parties intéressées.
+
+Niveau de confidentialité
+-------------------------
+
+Si un client réel nous avait demandé un tel projet, le niveau de confidentialité aurait été relativement faible, étant donné que nous travaillons avec un jeu de données public trouvé sur Internet. Cependant, il est important de noter que même si les données sont publiques, nous avons toujours une responsabilité envers notre client et envers les utilisateurs de Spotify de respecter leur vie privée et de ne pas utiliser les données de manière abusive.
+
+De plus, si le client avait des données supplémentaires qu'il souhaitait que nous intégrions à notre analyse (par exemple, des données d'écoute spécifiques à leur entreprise), le niveau de confidentialité aurait été plus élevé. Dans ce cas, nous aurions mis en place des mesures de sécurité supplémentaires pour protéger ces données, comme l'utilisation de protocoles de chiffrement et la limitation de l'accès aux données.
+
 Décomposition des tâches
 ------------------------
 
