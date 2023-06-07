@@ -8,20 +8,10 @@ date: 'Mai 2023'
 lang: fr-FR
 ...
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-
 \tableofcontents
+----------------
 
-  </div>
-  <div style="flex: 1; text-align: center;">
-
-    <img src="logo.png" height="250" align="center">
-
-  </div>
-</div>
-
------------
+<img src="logo.png" height="250" align="center">
 
 # 1. Présentation Générale du projet :
 
