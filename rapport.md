@@ -9,7 +9,6 @@ lang: fr-FR
 ...
 
 \tableofcontents
-<img src="logo.png" height="50" align="right">
 ----------------
 
 <img src="logo.png" height="250" align="center">
