@@ -72,36 +72,10 @@ Diagramme pieuvre
 ![DiagrammePieuvre](DiagrammePieuvre.png "Diagramme Pieuvre")
 
 
-Décomposition des tâches
-------------------------
-
-Écrire les algorithmes
-- Trouver une structure de données
-- Implémenter cette structure de données
-- Trouver un algorithme de recherche
-Documenter l'application
-- Écrire des descriptions courtes
-- Étudier la complexité
-- Rédiger un rapport
-- Écrire un script de déploiement
-Développer l'interface utilisateur
-- réaliser un menu
-- relier vue et modèle
-- vérifier les entrées utilisateur
-
 Tâches identifiées
 ------------------
 
-- 1h : Définir les objets
-- 2h : Implémenter la liste d'adjacence (antécédent : objets)
-- 3h : Implémenter la matrice d'adjacence (antécédent : objets)
-- 1h : Implémenter l'algorithme de recherche (antécédents : structures de données)
-- 2h : Extraire une base commune (antécédent : implémentation)
-- 1h : Comparer les implémentations (antécédent : base commune)
-- 3h : Écrire la documentation (antécédents ?)
-
-- 1h : Implémenter la persistence des données
-- 2h : Créer un menu
+![WBS](SAE2.05.png "WBS")
 
 Contraintes
 -----------
