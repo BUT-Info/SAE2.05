@@ -11,7 +11,7 @@ lang: fr-FR
 \tableofcontents
 
 
-![Logo](Logo.png "logo")
+![Logo](logo.png "logo")
 
 # 1. Présentation Générale du projet :
 -----------
