@@ -12,12 +12,11 @@ lang: fr-FR
   <div style="flex: 1;">
 
 \tableofcontents
----------------
 
   </div>
   <div style="flex: 1; text-align: center;">
 
-![logo](logo.png "logo")
+    <img src="logo.png" height="250" align="center">
 
   </div>
 </div>
