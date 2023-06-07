@@ -1,6 +1,5 @@
 ---
 title: 'SAÉ 2.05 Gestion d’un projet'
-![Logo](logo.png "logo")
 author:
 - Léo Tuaillon
 - Mathéo Hersan
@@ -12,6 +11,7 @@ lang: fr-FR
 \tableofcontents
 ----------------
 
+<img src="logo.png" height="450" align="center">
 
 
 # 1. Présentation Générale du projet :
