@@ -78,7 +78,7 @@ Diagramme pieuvre
 ![DiagrammePieuvre](DiagrammePieuvre.png "Diagramme Pieuvre")
 
 
-# 2.Publication du projet :
+# 2.Plannification du projet :
 
 WBS
 ------------------
