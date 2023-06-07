@@ -11,7 +11,7 @@ lang: fr-FR
 \tableofcontents
 ----------------
 
-<img src="logo.png" height="450" align="center">
+<img src="logo.png" height="250" align="center">
 
 
 # 1. Présentation Générale du projet :
