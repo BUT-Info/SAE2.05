@@ -78,7 +78,9 @@ Diagramme pieuvre
 ![DiagrammePieuvre](DiagrammePieuvre.png "Diagramme Pieuvre")
 
 
-Tâches identifiées
+# 2.Publication du projet :
+
+WBS
 ------------------
 
 ![WBS](SAE2.05.png "WBS")
