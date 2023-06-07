@@ -9,12 +9,12 @@ lang: fr-FR
 ...
 
 \tableofcontents
-
+----------------
 
 ![Logo](logo.png "logo")
 
 # 1. Présentation Générale du projet :
------------
+
 Contexte
 ----------
 
