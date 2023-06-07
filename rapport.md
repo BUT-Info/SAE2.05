@@ -8,12 +8,6 @@ date: 'Mai 2023'
 lang: fr-FR
 ...
 
-\tableofcontents
-----------------
-
-<img src="logo.png" height="250" align="center">
-
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
 
@@ -26,6 +20,7 @@ lang: fr-FR
 
   </div>
 </div>
+
 
 
 # 1. Présentation Générale du projet :
