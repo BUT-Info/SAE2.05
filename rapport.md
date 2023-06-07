@@ -16,7 +16,7 @@ lang: fr-FR
   </div>
   <div style="flex: 1; text-align: center;">
 
-![Image](logo.png)
+![logo](logo.png "logo")
 
   </div>
 </div>
