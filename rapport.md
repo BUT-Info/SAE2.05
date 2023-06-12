@@ -137,7 +137,7 @@ Planning des ressources optimisés :
 Indicateurs de suivi :
 --------------------
 
-**Avancement des tâches**
+## Avancement des tâches
 
 L'avancement des tâches est un indicateur clé pour le suivi de notre projet. Il nous permet de mesurer notre progression et d'identifier rapidement les retards ou les problèmes potentiels.
 
@@ -145,7 +145,6 @@ Nous avons utilisé les tickets Git sur CodeFirst et Notion pour suivre l'avance
 
 Nous avons vérifié l'avancement des tâches à chaque réunion d'équipe, qui avait lieu au début de chaque séance de travail. Cela nous a permis de discuter de la progression de chaque tâche, d'identifier les problèmes ou les retards, et de prendre des décisions sur les prochaines étapes.
 
-En somme, l'avancement des tâches, suivi via CodeFirst et Notion, est un indicateur essentiel pour nous assurer que nous allons dans la bonne direction avec notre projet.
 
 # 3.La Comparaison prévisionnel/Réel :
 
