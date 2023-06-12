@@ -70,7 +70,7 @@ De plus, si le client avait des données supplémentaires qu'il souhaitait que n
 Diagramme bête à corne
 ----------------------
 
-![DiagrammeBAC](Ressources/DiagrammeBeteACorne.png "reorganisation")
+![DiagrammeBAC](Ressources/DiagrammeBeteACorne.png "Diagramme Bete à corne")
 
 Diagramme pieuvre
 -----------------
