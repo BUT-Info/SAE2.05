@@ -97,10 +97,10 @@ La qualité de notre travail était une autre contrainte importante. Nous devion
 3. **Contrainte de coûts :**
 Bien que ce projet ait été réalisé dans un contexte académique et n'ait donc pas impliqué de coûts financiers directs, nous avons dû tenir compte des coûts potentiels si ce projet avait été réalisé dans un contexte professionnel. Par exemple, le coût des développeurs, des logiciels, de l'hébergement des données, et des locaux et de l'électricité auraient dû être pris en compte dans le budget du projet.
 
-4. **Contrainte de compétences**
+4. **Contrainte de compétences :**
 Une autre contrainte était liée aux compétences de l'équipe. Chaque membre de l'équipe avait des compétences et des intérêts différents, et nous avons dû nous assurer que les tâches étaient réparties de manière à tirer le meilleur de chacun. Cela a nécessité une bonne communication et une coordination au sein de l'équipe.
 
-5. **Contrainte de confidentialité**
+5. **Contrainte de confidentialité :**
 Pas vraiment de contrainte de confidentialité pour nous car le jeu de donnée était publique mais comme nous l'avons déjà expliqué précédemment, si nous avions été dans un contexte plus professionnel ou avec des  données plus sensibles la contrainte de confidentialité aurait été plus élevé et aurait nécessité plus d'attention de notre part.
 
 Coût prévisionnel
