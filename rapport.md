@@ -175,7 +175,7 @@ En ce qui concerne les outils utilisés, nous sommes globalement satisfaits. Not
 
 Yvan Calatayud :
 ----------------
-D'après moi je suis plutot satisfait de notre gestion de projet. Malgré quelques retards, nous sommes parvenus à achever le projet dans les délais impartis et à produire un travail de qualité. J'ai remarqué que l'utilisation de Notion et Git a grandement facilité la gestion de notre projet. Ces outils nous ont permis de rester organisés, de suivre notre progression et de collaborer de manière efficace. Pour le projet de l'année prochaine, j'aimerais certainement continuer à utiliser ces outils. Cependant, je pense que nous pourrions améliorer notre gestion du temps en identifiant plus tôt les tâches qui pourraient nécessiter davantage de temps et en leur accordant une marge plus importante dans notre planification.
+Je suis plutot satisfait de notre gestion de projet. Malgré quelques retards, nous sommes parvenus à achever le projet dans les délais impartis et à produire un travail de qualité. J'ai remarqué que l'utilisation de Notion et Git a grandement facilité la gestion de notre projet. Ces outils nous ont permis de rester organisés, de suivre notre progression et de collaborer de manière efficace. Pour le projet de l'année prochaine, j'aimerais certainement continuer à utiliser ces outils. Cependant, je pense que nous pourrions améliorer notre gestion du temps en identifiant plus tôt les tâches qui pourraient nécessiter davantage de temps et en leur accordant une marge plus importante dans notre planification.
 
 
 Mathéo Hersan :
