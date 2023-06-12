@@ -85,6 +85,31 @@ WBS
 
 ![WBS](Ressources/WBS.png "WBS")
 
+### Contraintes pesant sur la réalisation des tâches
+
+Contrainte de temps
+-------------------
+
+La première contrainte que nous avons rencontrée est la contrainte de temps. Nous avions une durée limitée pour réaliser ce projet, ce qui a nécessité une planification rigoureuse et une gestion efficace du temps. Chaque étape du projet, de la collecte des données à la rédaction du rapport, devait être réalisée dans un délai précis pour garantir que nous respecterions le calendrier global du projet.
+Contrainte de qualité
+-------------------
+
+La qualité de notre travail était une autre contrainte importante. Nous devions nous assurer que nos analyses étaient précises et que nos résultats étaient présentés de manière claire et compréhensible. Cela a nécessité une attention particulière aux détails lors de la collecte et de l'analyse des données, ainsi qu'un effort considérable pour la présentation visuelle des résultats.
+Contrainte de coûts
+-------------------
+
+Bien que ce projet ait été réalisé dans un contexte académique et n'ait donc pas impliqué de coûts financiers directs, nous avons dû tenir compte des coûts potentiels si ce projet avait été réalisé dans un contexte professionnel. Par exemple, le coût des développeurs, des logiciels, de l'hébergement des données, et des locaux auraient dû être pris en compte dans le budget du projet.
+Contrainte de compétences
+-------------------
+
+Une autre contrainte était liée aux compétences de l'équipe. Chaque membre de l'équipe avait des compétences et des intérêts différents, et nous avons dû nous assurer que les tâches étaient réparties de manière à tirer le meilleur parti de ces compétences. Cela a nécessité une bonne communication et une coordination au sein de l'équipe.
+Contrainte de confidentialité
+-------------------
+
+Enfin, bien que les données que nous avons utilisées soient publiques, nous avons dû respecter les principes de confidentialité et d'éthique dans le traitement des données. Cela signifie que nous avons dû faire preuve de prudence dans la manière dont nous avons collecté, stocké et utilisé les données, en veillant à respecter les droits des utilisateurs de Spotify.
+
+En conclusion, la gestion de ces contraintes a été un aspect crucial de notre projet. Elle a nécessité une planification soigneuse, une bonne communication au sein de l'équipe, et une attention constante à la qualité de notre travail.
+
 
 Coût prévisionnel
 -----------------
