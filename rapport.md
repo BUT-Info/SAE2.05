@@ -148,4 +148,14 @@ Nous avons vérifié l'avancement des tâches à chaque réunion d'équipe, qui 
 
 # 3.La Comparaison prévisionnel/Réel :
 
+Comparaison du GANTT prévisionnel au GANTT réel
+----------
+
+En comparant le diagramme de GANTT prévisionnel à celui réel, nous avons constaté des écarts dans l'exécution de certaines tâches. Plus précisément, nous avons rencontré un retard dans la réalisation de la tâche 2.1 : "Identification des tables nécessaires". Ce retard a eu un effet en cascade sur les tâches suivantes, à savoir 2.3 "Conception des requêtes SQL pour importer les données", 3.2 "Création des tables dans la base de données" et 4.1 "Identification des statistiques à extraire".
+
+L'origine de ce retard est due à la complexité de l'identification des tables nécessaires pour notre base de données. Nous avons dû passer plus de temps que prévu pour comprendre les relations entre les différentes données et pour définir une structure de base de données optimale. Cela a nécessité une analyse plus approfondie et des discussions supplémentaires au sein de l'équipe.
+
+Cependant, malgré ce retard, nous avons réussi à rattraper le temps perdu et à terminer le projet dans les délais prévus. Cela a été possible grâce à une bonne gestion de projet et à une répartition efficace des tâches par la suite. Nous avons également bénéficié d'une certaine flexibilité dans notre planning, ce qui nous a permis d'absorber ce retard sans impacter les autres tâches.
+
+En conclusion, bien que nous ayons rencontré des écarts entre notre planification prévisionnelle et la réalité, nous avons su nous adapter et gérer ces imprévus de manière efficace. Cela démontre l'importance d'une bonne gestion de projet et la nécessité d'avoir une certaine flexibilité dans la planification pour faire face aux imprévus.
 
