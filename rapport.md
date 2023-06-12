@@ -103,19 +103,13 @@ Une autre contrainte était liée aux compétences de l'équipe. Chaque membre d
 5. **Contrainte de confidentialité :**
 Pas vraiment de contrainte de confidentialité pour nous car le jeu de donnée était publique mais comme nous l'avons déjà expliqué précédemment, si nous avions été dans un contexte plus professionnel ou avec des  données plus sensibles la contrainte de confidentialité aurait été plus élevé et aurait nécessité plus d'attention de notre part.
 
-Coût prévisionnel
+Ressources néssaires à la réalisation du projet :
 -----------------
 
-Si ce projet avait été réalisé pour une entreprise et non pas dans le cadre d'une SAE, il aurait nécessité un long développement informatique et demande plusieurs développeurs pour être en mesure de livrer le projet dans les temps. Le projet aurait également eu besoin de faire appel à un graphiste pour les différents éléments de visualisation des graphiques, la présentation et la mise en page de ceux-ci. L'entreprise a besoin de locaux, d'équipements informatiques et fait le choix de faire appel à des sociétés extérieures pour l'hébergement de son code informatique et de la base de donnée ainsi que la publication des versions finales d'analyse des données.
+Si ce projet avait été réalisé pour une entreprise et non pas dans le cadre d'une SAE, il aurait nécessité un long développement informatique et de rémunérer les 3 développeurs.
+Voici un tableau des coûts : 
 
-|Domaine|Nombre|Durée|Coût prévisionnel|
-|----|--|--|----|
-|Developpeurs|2|2 mois|2 x 2500€/mois = 10000€|
-|Artiste|1|1 mois|2000€|
-|Locaux|30 m2|2 mois|3000€|
-|Logiciels|3|2 mois|400€|
-|Hébergement|1|2 mois|50 €|
-|Publication|1|unique|30 €|
+![WBS](Ressources/TableauCouts.png "Couts")
 
 Dates jalons
 ------------
