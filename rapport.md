@@ -106,8 +106,10 @@ Pas vraiment de contrainte de confidentialité pour nous car le jeu de donnée �
 Ressources néssaires à la réalisation du projet :
 -----------------
 
-Si ce projet avait été réalisé pour une entreprise et non pas dans le cadre d'une SAE, il aurait nécessité un long développement informatique et de rémunérer les 3 développeurs.
-Voici un tableau des coûts : 
+Si ce projet avait été réalisé pour une entreprise et non pas dans le cadre d'une SAE, il aurait nécessité un long développement informatique et de rémunérer les 3 développeurs. Il aurait aussi fallait répercuter le coût moyen en ordinateur et matériel informatique ainsi que l'électricité.
+
+Tableau des coûts prévisionnel :
+-----------------
 
 ![WBS](Ressources/TableauCouts.png "Couts")
 
@@ -116,4 +118,8 @@ Dates jalons
 
 Les tâches de documentation marquent la fin des étapes importantes. Elles marquent l'aboutissement d'un cycle de développement.
 
-PERT temps
+Réseau PERT :
+![WBS](Ressources/GraphePert.png "GraphePert")
+
+PERT temps :
+
