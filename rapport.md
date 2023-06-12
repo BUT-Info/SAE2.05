@@ -11,7 +11,7 @@ lang: fr-FR
 \tableofcontents
 ----------------
 
-<img src="logo.png" height="250" align="center">
+<img src="Ressources/logo.png" height="250" align="center">
 
 # 1. Présentation Générale du projet :
 
@@ -70,12 +70,12 @@ De plus, si le client avait des données supplémentaires qu'il souhaitait que n
 Diagramme bête à corne
 ----------------------
 
-![DiagrammeBAC](DiagrammeBeteACorne.png "reorganisation")
+![DiagrammeBAC](Ressources/DiagrammeBeteACorne.png "reorganisation")
 
 Diagramme pieuvre
 -----------------
 
-![DiagrammePieuvre](DiagrammePieuvre.png "Diagramme Pieuvre")
+![DiagrammePieuvre](Ressources/DiagrammePieuvre.png "Diagramme Pieuvre")
 
 
 # 2.Plannification du projet :
@@ -83,7 +83,7 @@ Diagramme pieuvre
 WBS
 ------------------
 
-![WBS](SAE2.05.png "WBS")
+![WBS](Ressources/WBS.png "WBS")
 
 
 Coût prévisionnel
