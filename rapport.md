@@ -93,7 +93,7 @@ Si ce projet avait été réalisé pour une entreprise et non pas dans le cadre 
 
 |Domaine|Nombre|Durée|Coût prévisionnel|
 |----|--|--|----|
-|Developpeurs|2|2 mois|2 × 2500€/mois = 10000€|
+|Developpeurs|2|2 mois|2 x 2500€/mois = 10000€|
 |Artiste|1|1 mois|2000€|
 |Locaux|30 m2|2 mois|3000€|
 |Logiciels|3|2 mois|400€|
