@@ -151,6 +151,8 @@ Nous avons vérifié l'avancement des tâches à chaque réunion d'équipe, qui 
 Comparaison du GANTT prévisionnel au GANTT réel
 ----------
 
+![WBS](Ressources/GANTT_Reel.png "Gantt_reel")
+
 En comparant le diagramme de GANTT prévisionnel à celui réel, nous avons constaté des écarts dans l'exécution de certaines tâches. Plus précisément, nous avons rencontré un retard dans la réalisation de la tâche 2.1 : "Identification des tables nécessaires". Ce retard a eu un effet en cascade sur les tâches suivantes, à savoir 2.3 "Conception des requêtes SQL pour importer les données", 3.2 "Création des tables dans la base de données" et 4.1 "Identification des statistiques à extraire".
 
 L'origine de ce retard est due à la complexité de l'identification des tables nécessaires pour notre base de données. Nous avons dû passer plus de temps que prévu pour comprendre les relations entre les différentes données et pour définir une structure de base de données optimale. Cela a nécessité une analyse plus approfondie et des discussions supplémentaires au sein de l'équipe.
