@@ -1,14 +1,9 @@
----
-title: 'SAÉ 2.05 Gestion d’un projet'
-author:
+# SAÉ 2.05 Gestion d’un projet
+## auteurs:
 - Léo Tuaillon
 - Mathéo Hersan
 - Yvan Calatayud
-date: 'Mai 2023'
-lang: fr-FR
-...
 
-\tableofcontents
 ----------------
 
 <img src="Ressources/logo.png" height="250" align="center">
