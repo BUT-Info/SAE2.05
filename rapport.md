@@ -159,3 +159,31 @@ Cependant, malgré ce retard, nous avons réussi à rattraper le temps perdu et 
 
 En conclusion, bien que nous ayons rencontré des écarts entre notre planification prévisionnelle et la réalité, nous avons su nous adapter et gérer ces imprévus de manière efficace. Cela démontre l'importance d'une bonne gestion de projet et la nécessité d'avoir une certaine flexibilité dans la planification pour faire face aux imprévus.
 
+
+Analyse de l'organisation de l'équipe
+--------
+
+Notre organisation d'équipe a globalement tenu la route tout au long du projet. Malgré le retard rencontré lors de l'identification des tables nécessaires pour notre base de données, nous avons réussi à rebondir et à terminer le projet dans les délais prévus. Cela a été possible grâce à une bonne communication au sein de l'équipe, une répartition efficace des tâches et une gestion de projet rigoureuse.
+
+Cependant, avec le recul, nous aurions pu améliorer notre organisation en anticipant davantage les tâches qui pourraient potentiellement nécessiter plus de temps que prévu. En identifiant ces tâches dès le début du projet, nous aurions pu leur allouer une marge plus importante dans notre planification, ce qui aurait permis de minimiser l'impact de tout retard sur le reste du projet.
+
+En ce qui concerne les outils utilisés, nous sommes globalement satisfaits. Notion et Git ont été des outils précieux pour la gestion de notre projet. Ils nous ont permis de suivre l'avancement du projet, de partager des ressources et de planifier nos tâches de manière efficace. De plus, Discord a facilité notre communication en temps réel, ce qui a été particulièrement utile lors des sessions de travail à distance.
+
+### CONCLUSIONS :
+
+Yvan Calatayud :
+----------------
+
+En tant que membre de l'équipe, je suis impressionné par ce que nous avons pu accomplir ensemble. Malgré quelques retards, nous avons réussi à terminer le projet dans les délais et à produire un travail de qualité. J'ai trouvé que notre utilisation de Notion et Git a grandement facilité la gestion de notre projet. Ces outils nous ont permis de rester organisés, de suivre notre progression et de collaborer efficacement. Pour le projet de l'année prochaine, je voudrais certainement continuer à utiliser ces outils. Cependant, je pense que nous pourrions améliorer notre gestion du temps en identifiant plus tôt les tâches qui pourraient nécessiter plus de temps et en leur allouant une marge plus importante dans notre planification.
+
+
+Mathéo Hersan :
+----------------
+
+En réfléchissant à notre gestion de projet, je suis globalement satisfait de la façon dont les choses se sont déroulées. Nous avons rencontré quelques défis, notamment un retard dans l'identification des tables nécessaires pour notre base de données, mais nous avons réussi à surmonter ces obstacles et à terminer le projet à temps. J'ai trouvé que notre communication ouverte et régulière était l'un des aspects les plus forts de notre équipe. Pour le projet de l'année prochaine, je voudrais continuer à prioriser la communication et la collaboration. Cependant, je pense que nous pourrions bénéficier d'une meilleure anticipation des tâches potentiellement difficiles et d'une allocation de temps plus généreuse pour ces tâches.
+
+Léo Tuaillon :
+--------------
+
+En tant que membre de cette équipe, je suis fier de ce que nous avons accompli. Nous avons réussi à mener à bien un projet complexe dans un délai relativement court, malgré quelques obstacles en cours de route. J'ai particulièrement apprécié notre approche collaborative, qui a permis à chacun de nous de contribuer de manière significative au projet. Les outils que nous avons utilisés, notamment Notion et Git, ont été essentiels pour nous aider à rester organisés et à suivre notre progression. Pour le projet de l'année prochaine, je voudrais continuer à utiliser ces outils et à travailler dans un environnement d'équipe collaboratif. Cependant, je pense que nous pourrions améliorer notre planification en identifiant plus tôt les tâches qui pourraient nécessiter plus de temps.
+
