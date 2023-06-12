@@ -124,5 +124,5 @@ Réseau PERT :
 
 PERT temps :
 
-![WBS](Ressources/GraphePert.png "GraphePert")bite
+![WBS](Ressources/PERT.png "GraphePert")
 
