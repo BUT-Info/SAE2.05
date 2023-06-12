@@ -132,4 +132,4 @@ GANTT Prévisionnel :
 
 Planning des ressources optimisés :
 
-![WBS](Ressources/GraphePERT.png "GraphePert")
+![WBS](Ressources/planning.png "Planning")
