@@ -119,7 +119,10 @@ Dates jalons
 Les tâches de documentation marquent la fin des étapes importantes. Elles marquent l'aboutissement d'un cycle de développement.
 
 Réseau PERT :
+
 ![WBS](Ressources/GraphePert.png "GraphePert")
 
 PERT temps :
+
+![WBS](Ressources/GraphePert.png "GraphePert")bite
 
