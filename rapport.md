@@ -126,3 +126,7 @@ PERT temps :
 
 ![WBS](Ressources/PERT.png "GraphePert")
 
+GANTT Prévisionnel : 
+
+![WBS](Ressources/PERT-TEMPS.png "GraphePert")
+
