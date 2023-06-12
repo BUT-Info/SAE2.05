@@ -128,5 +128,5 @@ PERT temps :
 
 GANTT Prévisionnel : 
 
-![WBS](Ressources/PERT-TEMPS.png "GraphePert")
+![WBS](Ressources/Gantt.png "GraphePert")
 
